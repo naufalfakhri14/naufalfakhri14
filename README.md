@@ -75,7 +75,8 @@ Data analysis project focused on extracting business insights from retail transa
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](www.linkedin.com/in/naufaal-fakhri
+)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
