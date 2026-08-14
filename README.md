@@ -126,23 +126,25 @@ The project combines data wrangling, exploratory analysis, visualization, busine
 
 ### 💧 Urban–Rural Drinking Water Access
 
-**Python · Pandas · EDA · Statistics**
+**Python · Pandas · SciPy · EDA · Statistics · Streamlit**
 
 <a href="https://github.com/naufalfakhri14/bridging-the-gap-urban-rural-drinking-water-access">
   <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="Urban Rural Drinking Water Access GitHub">
 </a>
 
-Data-driven analysis investigating disparities in access to drinking water between urban and rural populations across Indonesian provinces.
+<a href="https://bridging-the-gap-urban-rural-drinking-water-access.streamlit.app/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Urban Rural Drinking Water Access Live Demo">
+</a>
 
-The project identifies regional access gaps and patterns to provide data-driven insights into inequality in basic infrastructure.
+Data-driven analysis exploring household access to improved drinking water across Indonesian provinces from **2019 to 2025**, with a focus on urban–rural disparities and provincial progress.
+
+The analysis examines national trends, provincial differences, urban–rural gaps, and the relationship between overall access and disparity using **Spearman correlation and robustness analysis**. :contentReference[oaicite:1]{index=1}
+
+**Key Insight:** Overall access increased from **89.27% to 93.22%**, while the national urban–rural gap decreased from **14.48 pp to 9.32 pp** between 2019 and 2025. :contentReference[oaicite:2]{index=2}
 
 **Focus:** Social Data Analysis · EDA · Statistical Analysis · Data Visualization
 
 </td>
-</tr>
-
-<tr>
-<td width="50%">
 
 ### 🏠 Housing Market Analysis
 
