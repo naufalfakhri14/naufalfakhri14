@@ -56,6 +56,7 @@ I'm continuously building projects and expanding my experience across Data Scien
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🎬 Movie Success Analysis
@@ -97,9 +98,11 @@ Deep learning and NLP-based product recommendation system that processes product
 **Focus:** NLP · Deep Learning · Text Representation · Recommendation System
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🛒 E-Commerce Business Intelligence
@@ -138,13 +141,19 @@ The project combines data wrangling, exploratory analysis, visualization, busine
 
 Data-driven analysis exploring household access to improved drinking water across Indonesian provinces from **2019 to 2025**, with a focus on urban–rural disparities and provincial progress.
 
-The analysis examines national trends, provincial differences, urban–rural gaps, and the relationship between overall access and disparity using **Spearman correlation and robustness analysis**. :contentReference[oaicite:1]{index=1}
+The analysis examines national trends, provincial differences, urban–rural gaps, and the relationship between overall access and disparity using **Spearman correlation and robustness analysis**.
 
-**Key Insight:** Overall access increased from **89.27% to 93.22%**, while the national urban–rural gap decreased from **14.48 pp to 9.32 pp** between 2019 and 2025. :contentReference[oaicite:2]{index=2}
+**Key Insight:** Overall access increased from **89.27% to 93.22%**, while the national urban–rural gap decreased from **14.48 pp to 9.32 pp** between 2019 and 2025.
 
 **Focus:** Social Data Analysis · EDA · Statistical Analysis · Data Visualization
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🏠 Housing Market Analysis
 
@@ -175,6 +184,7 @@ Explore my other repositories covering machine learning, deep learning, computer
 </a>
 
 </td>
+
 </tr>
 </table>
 
