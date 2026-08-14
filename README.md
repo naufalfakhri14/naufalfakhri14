@@ -54,44 +54,61 @@ I'm continuously building projects and expanding my experience across Data Scien
 <p> <img src="https://skillicons.dev/icons?i=docker,linux,git" alt="Big Data and Data Engineering"> </p> <p> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop"> <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Apache Hive"> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow"> </p>
 🚀 Featured Projects
 <table> <tr> <td width="50%">
-📊 Big Data Poverty Classification
 
-Hadoop · Spark · Hive · Airflow · Docker
+🎬 Movie Success Analysis
 
-End-to-end big data pipeline for processing and classifying poverty data across Sumatra using distributed data processing and layered data architecture.
+Python · Pandas · SciPy · EDA · Statistics
 
-Focus: Data Engineering · Big Data · Distributed Processing
+<a href="https://github.com/naufalfakhri14/Movie-Success-Analysis-What-Drives-Movie-Performance-"> <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Movie Success Analysis"> </a>
 
-</td> <td width="50%">
-🧴 Skin Disease Classification
+Data science analysis exploring which factors are associated with movie financial performance, audience engagement, ratings, and popularity.
 
-MobileNetV3Large · TensorFlow · Fine-Tuning
+Key Insight: Budget and audience engagement showed stronger associations with financial performance than ratings alone.
 
-Multi-class skin disease classification using the HAM10000 dataset with transfer learning and partial fine-tuning.
+Focus: EDA · Statistical Analysis · Correlation · Hypothesis Testing
 
-Result: ~82% test accuracy
+</td>
 
-Focus: Deep Learning · Computer Vision · Medical AI
+<td width="50%">
 
-</td> </tr> <tr> <td width="50%">
-🚗 Vehicle Detection & Tracking
+🛍️ Product Recommendation NLP
 
-YOLO · ByteTrack · Computer Vision
+Python · NLP · Deep Learning · Recommendation
 
-Vehicle detection and tracking from CCTV footage for traffic analysis, including vehicle volume, composition, and traffic conditions.
+<a href="https://github.com/naufalfakhri14/deep-learning-product-recommendation-nlp"> <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Product Recommendation NLP"> </a>
 
-Focus: Object Detection · Object Tracking · Computer Vision
+A deep learning and NLP-based product recommendation project focused on extracting meaningful information from product-related text and generating relevant product recommendations.
 
-</td> <td width="50%">
-📈 Data Analytics & Statistical Analysis
+Focus: NLP · Deep Learning · Text Representation · Recommendation System
 
-Python · Pandas · Statistics
+</td> </tr>
 
-Exploratory data analysis, correlation analysis, hypothesis testing, and statistical analysis to transform raw data into meaningful insights.
+<tr> <td width="50%">
 
-Focus: EDA · Statistics · Data-Driven Insights
+🏠 Housing Market Analysis
+
+Python · Pandas · EDA · Statistics · Visualization
+
+<a href="https://github.com/naufalfakhri14/housing-market-analysis"> <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Housing Market Analysis"> </a>
+
+Exploratory analysis of housing characteristics and their relationship with house prices, including data quality assessment, correlation analysis, outlier investigation, and comparison of lower- and higher-value properties.
+
+Focus: EDA · Data Cleaning · Correlation Analysis · Data Visualization
+
+</td>
+
+<td width="50%">
+
+📊 Data Analytics & Statistical Analysis
+
+Python · Pandas · NumPy · Statistics
+
+A collection of data analytics work focused on transforming raw datasets into meaningful insights through exploratory analysis, statistical testing, correlation analysis, and visualization.
+
+Focus: Data Analysis · Statistics · EDA · Data-Driven Insights
 
 </td> </tr> </table>
+
 📊 GitHub Stats
 <div align="center"> <img src="https://streak-stats.demolab.com/?user=naufalfakhri14&hide_border=true&theme=transparent" alt="Naufal's GitHub Streak"> </div>
 🐍 Contribution Activity
