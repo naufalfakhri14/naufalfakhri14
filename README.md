@@ -1,105 +1,197 @@
-# naufalfakhri14
+<div align="center">
 
-> Data Scientist focused on Machine Learning, AI, Data Analytics, and Big Data.
+# 👋 Hi, I'm Naufal Fakhri
 
-**Theme:** GitHub · **Style:** Detailed · **Agent:** Data Scientist
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Scientist;Machine+Learning+%7C+AI;Data+Analytics+%7C+Big+Data;Turning+Data+Into+Meaningful+Solutions" alt="Typing SVG" />
 
-## Header
-
-> Editing this section in the inspector.
-
-Hi, I'm **Naufal Fakhri**, a **Data Scientist** focused on building data-driven solutions with **Machine Learning, Artificial Intelligence, Data Analytics, and Big Data**.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=naufalfakhri14&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=naufalfakhri14&theme=github-dark" alt="Naufal Fakhri hero section" />
-  </picture>
+<p>
+  <a href="https://github.com/naufalfakhri14">
+    <img src="https://img.shields.io/badge/GitHub-naufalfakhri14-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
 </p>
 
-## About Me
+</div>
 
-> Shapes the short profile story and positioning.
+---
 
-I'm an undergraduate student at **Institut Teknologi Sumatera (ITERA)** with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Big Data**.
+## 🧠 About Me
 
-I enjoy working across the data science lifecycle, from **exploratory data analysis and statistical analysis** to **machine learning, deep learning, computer vision, NLP, and end-to-end data pipelines**.
+I'm a **Data Scientist** and undergraduate student at **Institut Teknologi Sumatera (ITERA)**, passionate about turning data into meaningful insights and building practical machine learning solutions.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=naufalfakhri14&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=naufalfakhri14&theme=github-dark" alt="Naufal Fakhri about section" />
-  </picture>
+My interests span across:
+
+* 🤖 **Machine Learning & Deep Learning**
+* 🧠 **Artificial Intelligence**
+* 📊 **Data Analytics & Statistical Analysis**
+* 👁️ **Computer Vision & NLP**
+* ⚙️ **Big Data & Data Engineering**
+
+I enjoy working across the data science lifecycle — from **exploratory data analysis and statistical analysis** to **machine learning, deep learning, and end-to-end data pipelines**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres" alt="Programming and databases">
 </p>
 
-## Skills
-
-> Data Science, Machine Learning, AI, and Big Data technologies.
-
-**Programming & Data:** Python · SQL · Pandas · NumPy · Jupyter Notebook
-
-**Machine Learning & AI:** Scikit-learn · TensorFlow · Deep Learning · Computer Vision · NLP
-
-**Big Data & Data Engineering:** Apache Spark · Hadoop · Hive · Apache Airflow · Docker
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=naufalfakhri14&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=naufalfakhri14&theme=github-dark" alt="Naufal Fakhri technology stack" />
-  </picture>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
-## Projects
+### Machine Learning & AI
 
-> Highlights repositories as proof of work.
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="Machine Learning and AI">
+</p>
 
-**Big Data Pipeline for Poverty Classification**
-*Hadoop · Spark · Hive · Airflow · Docker*
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Computer%20Vision-4285F4?style=flat-square" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square" alt="Natural Language Processing">
+</p>
+
+### Big Data & Data Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git" alt="Data Engineering">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop">
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Apache Hive">
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Big Data Poverty Classification
+
+**Hadoop · Spark · Hive · Airflow · Docker**
 
 End-to-end big data pipeline for processing and classifying poverty data across Sumatra using distributed data processing and layered data architecture.
 
-**Skin Disease Classification**
-*MobileNetV3Large · Transfer Learning · Fine-Tuning · TensorFlow*
+</td>
+
+<td width="50%">
+
+### 🧴 Skin Disease Classification
+
+**MobileNetV3Large · TensorFlow · Fine-Tuning**
 
 Multi-class skin disease classification using the HAM10000 dataset with transfer learning and partial fine-tuning.
 
-**Vehicle Detection & Tracking**
-*YOLO · ByteTrack · Computer Vision*
+</td>
+</tr>
 
-Vehicle detection and tracking from CCTV footage for traffic volume, vehicle composition, and traffic condition analysis.
+<tr>
+<td width="50%">
 
-**Data Analytics & Statistical Analysis**
-*Python · Pandas · Statistical Analysis*
+### 🚗 Vehicle Detection & Tracking
 
-Data-driven analysis involving exploratory data analysis, correlation analysis, hypothesis testing, and statistical analysis.
+**YOLO · ByteTrack · Computer Vision**
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=naufalfakhri14&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=naufalfakhri14&theme=github-dark" alt="Naufal Fakhri projects section" />
-  </picture>
-</p>
+Vehicle detection and tracking from CCTV footage for traffic analysis, including vehicle volume, composition, and traffic conditions.
 
-## GitHub Stats
+</td>
 
-> GitHub activity and profile statistics.
+<td width="50%">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=naufalfakhri14&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=naufalfakhri14&theme=github-dark" alt="Naufal Fakhri GitHub statistics" />
-  </picture>
-</p>
+### 📈 Data Analytics & Statistical Analysis
 
-## Connect
+**Python · Pandas · Statistics**
 
-> Let's connect and collaborate on Data Science, Machine Learning, AI, and Data Analytics.
+Exploratory data analysis, correlation analysis, hypothesis testing, and statistical analysis to transform raw data into meaningful insights.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=naufalfakhri14&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=naufalfakhri14&theme=github-dark" alt="Naufal Fakhri social links" />
-  </picture>
-</p>
+</td>
+</tr>
+</table>
 
-<!-- Sections: Header, About Me, Skills, Projects, GitHub Stats, Connect -->
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=naufalfakhri14&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Naufal's GitHub Stats" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalfakhri14&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Naufal's Top Languages" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=naufalfakhri14&hide_border=true&theme=transparent" alt="Naufal's GitHub Streak" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/naufalfakhri14/naufalfakhri14/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
+```text
+Data Science
+├── Machine Learning
+├── Deep Learning
+├── Computer Vision
+├── Natural Language Processing
+├── Data Analytics
+└── Big Data & Data Engineering
+```
+
+I'm continuously building projects and expanding my experience across **Data Science, Machine Learning, AI, and Data Engineering**.
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **collaboration, learning opportunities, internships, and professional opportunities** related to Data Science, Machine Learning, AI, and Data Analytics.
+
+<div align="center">
+
+<a href="https://github.com/naufalfakhri14">
+  <img src="https://img.shields.io/badge/GitHub-naufalfakhri14-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Naufal%20Fakhri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *Turning data into insights, models, and meaningful solutions.*
+
+<img src="https://komarev.com/ghpvc/?username=naufalfakhri14&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views">
+
+</div>
