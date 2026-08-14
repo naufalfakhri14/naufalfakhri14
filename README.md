@@ -78,15 +78,18 @@ Data science analysis exploring the factors associated with movie financial perf
 
 </td>
 
+<td width="50%">
+
 ### 🤖 Product Recommendation NLP
 
 **Python · NLP · Deep Learning · Recommendation**
 
 <a href="https://github.com/naufalfakhri14/deep-learning-product-recommendation-nlp">
-  <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="Product Recommendation NLP">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="Product Recommendation NLP GitHub">
 </a>
+
 <a href="https://deep-learning-appuct-recommendation-nlp.streamlit.app/">
-  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Product Recommendation NLP Demo">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Product Recommendation NLP Live Demo">
 </a>
 
 Deep learning and NLP-based product recommendation system that processes product information to generate relevant recommendations.
@@ -104,15 +107,16 @@ Deep learning and NLP-based product recommendation system that processes product
 **Python · Pandas · RFM Analysis · Streamlit**
 
 <a href="https://github.com/naufalfakhri14/ecommerce-business-intelligence-analysis">
-  <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="E-Commerce Business Intelligence">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="E-Commerce Business Intelligence GitHub">
 </a>
+
 <a href="https://ecommerce-business-intelligence-analysis.streamlit.app/">
-  <img src="https://img.shields.io/badge/📊%20Live%20Dashboard-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="E-Commerce Business Intelligence Dashboard">
+  <img src="https://img.shields.io/badge/📊%20Live%20Dashboard-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="E-Commerce Business Intelligence Live Dashboard">
 </a>
 
 End-to-end e-commerce analysis using the **Olist E-Commerce Public Dataset**, covering sales performance, customer experience, and RFM-based customer segmentation.
 
-The project combines data wrangling, exploratory analysis, visualization, business insights, recommendations, and an interactive dashboard. :contentReference[oaicite:1]{index=1}
+The project combines data wrangling, exploratory analysis, visualization, business insights, recommendations, and an interactive dashboard.
 
 **Focus:** Business Intelligence · EDA · RFM Analysis · Data Visualization
 
@@ -120,19 +124,53 @@ The project combines data wrangling, exploratory analysis, visualization, busine
 
 <td width="50%">
 
+### 💧 Urban–Rural Drinking Water Access
+
+**Python · Pandas · EDA · Statistics**
+
+<a href="https://github.com/naufalfakhri14/bridging-the-gap-urban-rural-drinking-water-access">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="Urban Rural Drinking Water Access GitHub">
+</a>
+
+Data-driven analysis investigating disparities in access to drinking water between urban and rural populations across Indonesian provinces.
+
+The project identifies regional access gaps and patterns to provide data-driven insights into inequality in basic infrastructure.
+
+**Focus:** Social Data Analysis · EDA · Statistical Analysis · Data Visualization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 🏠 Housing Market Analysis
 
 **Python · Pandas · SciPy · EDA · Statistics**
 
 <a href="https://github.com/naufalfakhri14/housing-market-analysis">
-  <img src="https://img.shields.io/badge/💻%20GitHub-View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="Housing Market Analysis">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="Housing Market Analysis GitHub">
 </a>
 
 Exploratory analysis investigating which housing, environmental, infrastructure, and socioeconomic characteristics are associated with house prices.
 
-The analysis covers data quality, missing values, outlier investigation, correlation analysis, and comparisons between lower- and higher-value houses. :contentReference[oaicite:2]{index=2}
+The analysis covers data quality, missing values, outlier investigation, correlation analysis, and comparisons between lower- and higher-value houses.
 
 **Focus:** EDA · Data Cleaning · Correlation Analysis · Statistical Analysis
+
+</td>
+
+<td width="50%">
+
+### 🔬 More Data Science Projects
+
+**Machine Learning · Deep Learning · Big Data · Computer Vision**
+
+Explore my other repositories covering machine learning, deep learning, computer vision, data analytics, and data engineering.
+
+<a href="https://github.com/naufalfakhri14?tab=repositories">
+  <img src="https://img.shields.io/badge/💻%20GitHub-View%20All%20Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="All GitHub Repositories">
+</a>
 
 </td>
 </tr>
