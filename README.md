@@ -1,84 +1,105 @@
-# Hi, I'm Naufal Fakhri 👋
+# naufalfakhri14
 
-### Data Scientist | Machine Learning | Data Analytics
+> Data Scientist focused on Machine Learning, AI, Data Analytics, and Big Data.
 
-I'm a Data Science enthusiast focused on transforming data into meaningful insights and building practical machine learning solutions.
+**Theme:** GitHub · **Style:** Detailed · **Agent:** Data Scientist
 
-My interests include **Machine Learning, Deep Learning, Data Analytics, and Big Data**.
+## Header
 
----
+> Editing this section in the inspector.
+
+Hi, I'm **Naufal Fakhri**, a **Data Scientist** focused on building data-driven solutions with **Machine Learning, Artificial Intelligence, Data Analytics, and Big Data**.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=naufalfakhri14&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=naufalfakhri14&theme=github-dark" alt="Naufal Fakhri hero section" />
+  </picture>
+</p>
 
 ## About Me
 
-- 🎓 Student at Institut Teknologi Sumatera
-- 📊 Interested in Data Science and Machine Learning
-- 🤖 Exploring Deep Learning and Artificial Intelligence
-- 🗄️ Interested in Big Data and Data Engineering
-- 🔍 Currently developing practical data-driven projects
+> Shapes the short profile story and positioning.
 
----
+I'm an undergraduate student at **Institut Teknologi Sumatera (ITERA)** with a strong interest in **Data Science, Machine Learning, Artificial Intelligence, and Big Data**.
 
-## Tech Stack
+I enjoy working across the data science lifecycle, from **exploratory data analysis and statistical analysis** to **machine learning, deep learning, computer vision, NLP, and end-to-end data pipelines**.
 
-### Programming & Data
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=naufalfakhri14&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=naufalfakhri14&theme=github-dark" alt="Naufal Fakhri about section" />
+  </picture>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+## Skills
 
-### Machine Learning & AI
+> Data Science, Machine Learning, AI, and Big Data technologies.
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+**Programming & Data:** Python · SQL · Pandas · NumPy · Jupyter Notebook
 
-### Big Data & Tools
+**Machine Learning & AI:** Scikit-learn · TensorFlow · Deep Learning · Computer Vision · NLP
 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Big Data & Data Engineering:** Apache Spark · Hadoop · Hive · Apache Airflow · Docker
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=naufalfakhri14&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=naufalfakhri14&theme=github-dark" alt="Naufal Fakhri technology stack" />
+  </picture>
+</p>
 
-## Featured Projects
+## Projects
 
-### 🩺 Skin Disease Classification
-**MobileNetV3Large | Transfer Learning | Fine-Tuning | Deep Learning**
+> Highlights repositories as proof of work.
 
-Classification of seven skin disease categories using the HAM10000 dataset with Transfer Learning and Fine-Tuning.
+**Big Data Pipeline for Poverty Classification**
+*Hadoop · Spark · Hive · Airflow · Docker*
 
-### 🏗️ Big Data Pipeline for Poverty Classification
-**Hadoop | Spark | Hive | Airflow | Superset | Docker**
+End-to-end big data pipeline for processing and classifying poverty data across Sumatra using distributed data processing and layered data architecture.
 
-End-to-end Big Data pipeline for processing and analyzing poverty classification data using a layered data architecture.
+**Skin Disease Classification**
+*MobileNetV3Large · Transfer Learning · Fine-Tuning · TensorFlow*
 
-### 🚗 Vehicle Detection & Tracking
-**YOLO | ByteTrack | Computer Vision**
+Multi-class skin disease classification using the HAM10000 dataset with transfer learning and partial fine-tuning.
 
-Vehicle detection and tracking system for traffic monitoring and transportation analysis.
+**Vehicle Detection & Tracking**
+*YOLO · ByteTrack · Computer Vision*
 
-### 🛒 Retail Sales Analysis
-**Python | SQL | Data Analytics**
+Vehicle detection and tracking from CCTV footage for traffic volume, vehicle composition, and traffic condition analysis.
 
-Data analysis project focused on extracting business insights from retail transaction data.
+**Data Analytics & Statistical Analysis**
+*Python · Pandas · Statistical Analysis*
 
----
+Data-driven analysis involving exploratory data analysis, correlation analysis, hypothesis testing, and statistical analysis.
 
-## Areas of Interest
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=naufalfakhri14&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=naufalfakhri14&theme=github-dark" alt="Naufal Fakhri projects section" />
+  </picture>
+</p>
 
-`Machine Learning` `Deep Learning` `Data Analytics`  
-`Computer Vision` `NLP` `Big Data` `Data Engineering`
+## GitHub Stats
 
----
+> GitHub activity and profile statistics.
 
-## Connect With Me
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=naufalfakhri14&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=naufalfakhri14&theme=github-dark" alt="Naufal Fakhri GitHub statistics" />
+  </picture>
+</p>
 
-[![LinkedIn](www.linkedin.com/in/naufaal-fakhri
-)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+## Connect
 
----
+> Let's connect and collaborate on Data Science, Machine Learning, AI, and Data Analytics.
 
-⭐ Feel free to explore my repositories and projects.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=naufalfakhri14&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=naufalfakhri14&theme=github-dark" alt="Naufal Fakhri social links" />
+  </picture>
+</p>
+
+<!-- Sections: Header, About Me, Skills, Projects, GitHub Stats, Connect -->
