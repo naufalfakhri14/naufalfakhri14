@@ -6,10 +6,10 @@
 
 <p>
   <a href="https://github.com/naufalfakhri14">
-    <img src="https://img.shields.io/badge/GitHub-naufalfakhri14-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-naufalfakhri14-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -55,14 +55,14 @@ I enjoy working across the data science lifecycle — from **exploratory data an
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Computer%20Vision-4285F4?style=flat-square" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/Computer%20Vision-36BCF7?style=flat-square" alt="Computer Vision">
   <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square" alt="Natural Language Processing">
 </p>
 
 ### Big Data & Data Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git" alt="Data Engineering">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git" alt="Big Data and Data Engineering">
 </p>
 
 <p>
@@ -128,9 +128,13 @@ Exploratory data analysis, correlation analysis, hypothesis testing, and statist
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=naufalfakhri14&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Naufal's GitHub Stats" />
+<a href="https://github.com/naufalfakhri14">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=naufalfakhri14&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Naufal's GitHub Stats">
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalfakhri14&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Naufal's Top Languages" />
+<a href="https://github.com/naufalfakhri14">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalfakhri14&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Naufal's Top Languages">
+</a>
 
 </div>
 
@@ -138,7 +142,7 @@ Exploratory data analysis, correlation analysis, hypothesis testing, and statist
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=naufalfakhri14&hide_border=true&theme=transparent" alt="Naufal's GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=naufalfakhri14&hide_border=true&theme=transparent" alt="Naufal's GitHub Streak">
 
 </div>
 
@@ -148,31 +152,19 @@ Exploratory data analysis, correlation analysis, hypothesis testing, and statist
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/naufalfakhri14/naufalfakhri14/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naufalfakhri14/naufalfakhri14/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naufalfakhri14/naufalfakhri14/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/naufalfakhri14/naufalfakhri14/output/github-snake.svg" alt="GitHub Contribution Snake">
+</picture>
 
 </div>
 
 ---
 
-## 🎯 What I'm Working On
-
-```text
-Data Science
-├── Machine Learning
-├── Deep Learning
-├── Computer Vision
-├── Natural Language Processing
-├── Data Analytics
-└── Big Data & Data Engineering
-```
-
-I'm continuously building projects and expanding my experience across **Data Science, Machine Learning, AI, and Data Engineering**.
-
----
-
 ## 🤝 Let's Connect
 
-I'm open to **collaboration, learning opportunities, internships, and professional opportunities** related to Data Science, Machine Learning, AI, and Data Analytics.
+I'm open to **collaboration, learning opportunities, internships, and professional opportunities** related to **Data Science, Machine Learning, Artificial Intelligence, and Data Analytics**.
 
 <div align="center">
 
@@ -186,12 +178,10 @@ I'm open to **collaboration, learning opportunities, internships, and profession
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💡 *Turning data into insights, models, and meaningful solutions.*
-
-<img src="https://komarev.com/ghpvc/?username=naufalfakhri14&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views">
+💡 <i><b>Turning data into insights, models, and meaningful solutions.</b></i>
 
 </div>
