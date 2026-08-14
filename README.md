@@ -52,62 +52,89 @@ I'm continuously building projects and expanding my experience across Data Scien
 <p> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="Machine Learning and AI"> </p> <p> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"> <img src="https://img.shields.io/badge/Computer%20Vision-36BCF7?style=flat-square" alt="Computer Vision"> <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square" alt="Natural Language Processing"> </p>
 ⚙️ Big Data & Data Engineering
 <p> <img src="https://skillicons.dev/icons?i=docker,linux,git" alt="Big Data and Data Engineering"> </p> <p> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop"> <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Apache Hive"> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow"> </p>
-🚀 Featured Projects
-<table> <tr> <td width="50%">
+## 🚀 Featured Projects
 
-🎬 Movie Success Analysis
+<table>
+<tr>
+<td width="50%">
 
-Python · Pandas · SciPy · EDA · Statistics
+### 🎬 Movie Success Analysis
 
-<a href="https://github.com/naufalfakhri14/Movie-Success-Analysis-What-Drives-Movie-Performance-"> <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Movie Success Analysis"> </a>
+**Python · Pandas · SciPy · EDA · Statistics**
 
-Data science analysis exploring which factors are associated with movie financial performance, audience engagement, ratings, and popularity.
+<a href="https://github.com/naufalfakhri14/Movie-Success-Analysis-What-Drives-Movie-Performance-">
+  <img src="https://img.shields.io/badge/💻%20GitHub-View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="Movie Success Analysis">
+</a>
 
-Key Insight: Budget and audience engagement showed stronger associations with financial performance than ratings alone.
+Data science analysis exploring the factors associated with movie financial performance, audience engagement, ratings, and popularity.
 
-Focus: EDA · Statistical Analysis · Correlation · Hypothesis Testing
+**Key Insight:** Budget and audience engagement showed stronger associations with financial performance than ratings alone.
+
+**Focus:** EDA · Statistical Analysis · Correlation · Hypothesis Testing
 
 </td>
 
 <td width="50%">
 
-🛍️ Product Recommendation NLP
+### 🤖 Product Recommendation NLP
 
-Python · NLP · Deep Learning · Recommendation
+**Python · NLP · Deep Learning · Recommendation**
 
-<a href="https://github.com/naufalfakhri14/deep-learning-product-recommendation-nlp"> <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Product Recommendation NLP"> </a>
+<a href="https://github.com/naufalfakhri14/deep-learning-product-recommendation-nlp">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="Product Recommendation NLP">
+</a>
+<a href="https://deep-learning-appuct-recommendation-nlp.streamlit.app/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Product Recommendation NLP Demo">
+</a>
 
-A deep learning and NLP-based product recommendation project focused on extracting meaningful information from product-related text and generating relevant product recommendations.
+Deep learning and NLP-based product recommendation system that processes product information to generate relevant recommendations.
 
-Focus: NLP · Deep Learning · Text Representation · Recommendation System
+**Focus:** NLP · Deep Learning · Text Representation · Recommendation System
 
-</td> </tr>
+</td>
+</tr>
 
-<tr> <td width="50%">
+<tr>
+<td width="50%">
 
-🏠 Housing Market Analysis
+### 🛒 E-Commerce Business Intelligence
 
-Python · Pandas · EDA · Statistics · Visualization
+**Python · Pandas · RFM Analysis · Streamlit**
 
-<a href="https://github.com/naufalfakhri14/housing-market-analysis"> <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="View Housing Market Analysis"> </a>
+<a href="https://github.com/naufalfakhri14/ecommerce-business-intelligence-analysis">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="E-Commerce Business Intelligence">
+</a>
+<a href="https://ecommerce-business-intelligence-analysis.streamlit.app/">
+  <img src="https://img.shields.io/badge/📊%20Live%20Dashboard-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="E-Commerce Business Intelligence Dashboard">
+</a>
 
-Exploratory analysis of housing characteristics and their relationship with house prices, including data quality assessment, correlation analysis, outlier investigation, and comparison of lower- and higher-value properties.
+End-to-end e-commerce analysis using the **Olist E-Commerce Public Dataset**, covering sales performance, customer experience, and RFM-based customer segmentation.
 
-Focus: EDA · Data Cleaning · Correlation Analysis · Data Visualization
+The project combines data wrangling, exploratory analysis, visualization, business insights, recommendations, and an interactive dashboard. :contentReference[oaicite:1]{index=1}
+
+**Focus:** Business Intelligence · EDA · RFM Analysis · Data Visualization
 
 </td>
 
 <td width="50%">
 
-📊 Data Analytics & Statistical Analysis
+### 🏠 Housing Market Analysis
 
-Python · Pandas · NumPy · Statistics
+**Python · Pandas · SciPy · EDA · Statistics**
 
-A collection of data analytics work focused on transforming raw datasets into meaningful insights through exploratory analysis, statistical testing, correlation analysis, and visualization.
+<a href="https://github.com/naufalfakhri14/housing-market-analysis">
+  <img src="https://img.shields.io/badge/💻%20GitHub-View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="Housing Market Analysis">
+</a>
 
-Focus: Data Analysis · Statistics · EDA · Data-Driven Insights
+Exploratory analysis investigating which housing, environmental, infrastructure, and socioeconomic characteristics are associated with house prices.
 
-</td> </tr> </table>
+The analysis covers data quality, missing values, outlier investigation, correlation analysis, and comparisons between lower- and higher-value houses. :contentReference[oaicite:2]{index=2}
+
+**Focus:** EDA · Data Cleaning · Correlation Analysis · Statistical Analysis
+
+</td>
+</tr>
+</table>
 
 📊 GitHub Stats
 <div align="center"> <img src="https://streak-stats.demolab.com/?user=naufalfakhri14&hide_border=true&theme=transparent" alt="Naufal's GitHub Streak"> </div>
