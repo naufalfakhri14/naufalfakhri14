@@ -56,14 +56,18 @@ I'm continuously building projects and expanding my experience across Data Scien
 
 <table>
 <tr>
-[<td width="50%">
+<td width="50%">
 
 ### 🎬 Movie Success Analysis
 
 **Python · Pandas · SciPy · EDA · Statistics**
 
 <a href="https://github.com/naufalfakhri14/Movie-Success-Analysis-What-Drives-Movie-Performance-">
-  <img src="https://img.shields.io/badge/💻%20GitHub-View%20Project-181717?style=flat-square&logo=github&logoColor=white" alt="Movie Success Analysis">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="Movie Success Analysis GitHub">
+</a>
+
+<a href="https://movie-success-analysis-what-drives-movie-performance.streamlit.app/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Movie Success Analysis Live Demo">
 </a>
 
 Data science analysis exploring the factors associated with movie financial performance, audience engagement, ratings, and popularity.
@@ -72,9 +76,7 @@ Data science analysis exploring the factors associated with movie financial perf
 
 **Focus:** EDA · Statistical Analysis · Correlation · Hypothesis Testing
 
-</td>](https://movie-success-analysis-what-drives-movie-performance.streamlit.app/)
-
-<td width="50%">
+</td>
 
 ### 🤖 Product Recommendation NLP
 
