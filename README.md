@@ -128,14 +128,6 @@ Exploratory data analysis, correlation analysis, hypothesis testing, and statist
 
 <div align="center">
 
-<a href="https://github.com/naufalfakhri14">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=naufalfakhri14&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Naufal's GitHub Stats">
-</a>
-
-<a href="https://github.com/naufalfakhri14">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalfakhri14&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Naufal's Top Languages">
-</a>
-
 </div>
 
 <br>
