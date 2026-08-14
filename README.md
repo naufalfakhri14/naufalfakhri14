@@ -56,7 +56,7 @@ I'm continuously building projects and expanding my experience across Data Scien
 
 <table>
 <tr>
-<td width="50%">
+[<td width="50%">
 
 ### 🎬 Movie Success Analysis
 
@@ -72,7 +72,7 @@ Data science analysis exploring the factors associated with movie financial perf
 
 **Focus:** EDA · Statistical Analysis · Correlation · Hypothesis Testing
 
-</td>
+</td>](https://movie-success-analysis-what-drives-movie-performance.streamlit.app/)
 
 <td width="50%">
 
