@@ -157,15 +157,19 @@ The analysis examines national trends, provincial differences, urban–rural gap
 
 ### 🏠 Housing Market Analysis
 
-**Python · Pandas · SciPy · EDA · Statistics**
+**Python · Pandas · SciPy · EDA · Statistics · Streamlit**
 
 <a href="https://github.com/naufalfakhri14/housing-market-analysis">
   <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="Housing Market Analysis GitHub">
 </a>
 
+<a href="https://housing-market-analysis.streamlit.app/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Housing Market Analysis Live Demo">
+</a>
+
 Exploratory analysis investigating which housing, environmental, infrastructure, and socioeconomic characteristics are associated with house prices.
 
-The analysis covers data quality, missing values, outlier investigation, correlation analysis, and comparisons between lower- and higher-value houses.
+The project covers data quality assessment, missing-value analysis, outlier investigation, correlation analysis, and comparisons between lower- and higher-value properties.
 
 **Focus:** EDA · Data Cleaning · Correlation Analysis · Statistical Analysis
 
