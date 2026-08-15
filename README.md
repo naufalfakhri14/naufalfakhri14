@@ -59,6 +59,30 @@ I'm continuously building projects and expanding my experience across Data Scien
 
 <td width="50%">
 
+### 🎯 Customer Retention Intelligence
+
+**Python · Scikit-learn · Random Forest · Statistics · Streamlit**
+
+<a href="https://github.com/naufalfakhri14/Customer-Retention-Intelligent">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="Customer Retention Intelligence GitHub">
+</a>
+
+<a href="https://customer-retention-intelligent.streamlit.app/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Customer Retention Intelligence Live Demo">
+</a>
+
+End-to-end customer churn prediction and retention intelligence system designed to identify high-risk customers and translate predictive insights into actionable retention strategies.
+
+The project combines data quality assessment, EDA, statistical testing, effect-size analysis, feature engineering, machine learning, explainable ML, customer risk scoring, and decision-support analysis.
+
+**Result:** Random Forest achieved **75.13% recall**, **62.86% F1-score**, and **0.8411 ROC-AUC**.
+
+**Focus:** Churn Prediction · Explainable ML · Risk Scoring · Customer Retention · Business Intelligence
+
+</td>
+
+<td width="50%">
+
 ### 🎬 Movie Success Analysis
 
 **Python · Pandas · SciPy · EDA · Statistics**
@@ -79,6 +103,10 @@ Data science analysis exploring the factors associated with movie financial perf
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%">
 
 ### 🤖 Product Recommendation NLP
@@ -98,10 +126,6 @@ Deep learning and NLP-based product recommendation system that processes product
 **Focus:** NLP · Deep Learning · Text Representation · Recommendation System
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%">
 
@@ -124,6 +148,10 @@ The project combines data wrangling, exploratory analysis, visualization, busine
 **Focus:** Business Intelligence · EDA · RFM Analysis · Data Visualization
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 
@@ -149,10 +177,6 @@ The analysis examines national trends, provincial differences, urban–rural gap
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%">
 
 ### 🏠 Housing Market Analysis
@@ -175,7 +199,11 @@ The project covers data quality assessment, missing-value analysis, outlier inve
 
 </td>
 
-<td width="50%">
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
 
 ### 🔬 More Data Science Projects
 
@@ -190,6 +218,7 @@ Explore my other repositories covering machine learning, deep learning, computer
 </td>
 
 </tr>
+
 </table>
 
 📊 GitHub Stats
