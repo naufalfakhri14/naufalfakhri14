@@ -111,6 +111,32 @@ The project combines data quality assessment, EDA, statistical testing, effect-s
 
 <td width="50%">
 
+### 📦 Demand Forecasting & Inventory Intelligence
+
+**Python · Pandas · Time Series Analysis · Forecasting · Streamlit**
+
+<a href="https://github.com/naufalfakhri14/demand-forecasting-inventory-intelligence">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="Demand Forecasting Inventory Intelligence GitHub">
+</a>
+
+<a href="https://demand-forecasting-inventory-intelligence.streamlit.app/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Demand Forecasting Inventory Intelligence Live Demo">
+</a>
+
+End-to-end demand forecasting and inventory planning solution built on **4.56M retail transactions** across 50 stores and 50 items from 2019–2023.
+
+The project analyzes demand trends and seasonality, applies chronological time-based validation, compares forecasting approaches, and translates future demand into configurable inventory-planning scenarios.
+
+**Result:** Seasonal Naive outperformed Exponential Smoothing with **MAE 9,528.43** and **RMSE 12,427.40**, leading to a 90-day demand forecast of **7.36M units**.
+
+The forecast is translated into a configurable inventory scenario, demonstrating how predictive analytics can support practical inventory planning and decision-making.
+
+**Focus:** Demand Forecasting · Time Series Analysis · Model Evaluation · Inventory Planning · Decision Support
+
+</td>
+
+<td width="50%">
+
 ### 🎬 Movie Success Analysis
 
 **Python · Pandas · SciPy · EDA · Statistics**
@@ -131,6 +157,10 @@ Data science analysis exploring the factors associated with movie financial perf
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%">
 
 ### 🤖 Product Recommendation NLP
@@ -150,10 +180,6 @@ Deep learning and NLP-based product recommendation system that processes product
 **Focus:** NLP · Deep Learning · Text Representation · Recommendation System
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%">
 
@@ -176,6 +202,10 @@ The project combines data wrangling, exploratory analysis, visualization, busine
 **Focus:** Business Intelligence · EDA · RFM Analysis · Data Visualization
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 
@@ -201,10 +231,6 @@ The analysis examines national trends, provincial differences, urban–rural gap
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%">
 
 ### 🏠 Housing Market Analysis
@@ -227,7 +253,11 @@ The project covers data quality assessment, missing-value analysis, outlier inve
 
 </td>
 
-<td width="50%">
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
 
 ### 🔬 More Data Science Projects
 
@@ -240,6 +270,10 @@ Explore my other repositories covering machine learning, deep learning, computer
 </a>
 
 </td>
+
+</tr>
+
+</table>
 
 </tr>
 
