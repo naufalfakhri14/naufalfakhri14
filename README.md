@@ -59,6 +59,30 @@ I'm continuously building projects and expanding my experience across Data Scien
 
 <td width="50%">
 
+### 🚚 Supply Chain Delivery Risk Intelligence
+
+**Python · Scikit-learn · Random Forest · Statistics · Streamlit**
+
+<a href="https://github.com/naufalfakhri14/supply-chain-delivery-risk-intelligence">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="Supply Chain Delivery Risk Intelligence GitHub">
+</a>
+
+<a href="https://supply-chain-delivery-risk-intelligence.streamlit.app/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Supply Chain Delivery Risk Intelligence Live Demo">
+</a>
+
+End-to-end supply chain analytics and machine learning system designed to identify late-delivery risk and support data-driven operational decisions.
+
+The project covers data quality assessment, EDA, statistical hypothesis testing, effect-size analysis, data leakage detection, feature selection, machine learning, model evaluation, feature importance analysis, and interactive decision support.
+
+**Result:** Random Forest achieved **69.75% accuracy**, **84.97% precision**, **54.47% recall**, **66.38% F1-score**, and **0.7351 ROC-AUC**.
+
+**Focus:** Supply Chain Analytics · Risk Prediction · Machine Learning · Statistical Analysis · Decision Support
+
+</td>
+
+<td width="50%">
+
 ### 🎯 Customer Retention Intelligence
 
 **Python · Scikit-learn · Random Forest · Statistics · Streamlit**
@@ -80,6 +104,10 @@ The project combines data quality assessment, EDA, statistical testing, effect-s
 **Focus:** Churn Prediction · Explainable ML · Risk Scoring · Customer Retention · Business Intelligence
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 
@@ -103,10 +131,6 @@ Data science analysis exploring the factors associated with movie financial perf
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%">
 
 ### 🤖 Product Recommendation NLP
@@ -126,6 +150,10 @@ Deep learning and NLP-based product recommendation system that processes product
 **Focus:** NLP · Deep Learning · Text Representation · Recommendation System
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%">
 
@@ -148,10 +176,6 @@ The project combines data wrangling, exploratory analysis, visualization, busine
 **Focus:** Business Intelligence · EDA · RFM Analysis · Data Visualization
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%">
 
@@ -177,6 +201,10 @@ The analysis examines national trends, provincial differences, urban–rural gap
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%">
 
 ### 🏠 Housing Market Analysis
@@ -199,11 +227,7 @@ The project covers data quality assessment, missing-value analysis, outlier inve
 
 </td>
 
-</tr>
-
-<tr>
-
-<td colspan="2" align="center">
+<td width="50%">
 
 ### 🔬 More Data Science Projects
 
@@ -220,7 +244,6 @@ Explore my other repositories covering machine learning, deep learning, computer
 </tr>
 
 </table>
-
 📊 GitHub Stats
 <div align="center"> <img src="https://streak-stats.demolab.com/?user=naufalfakhri14&hide_border=true&theme=transparent" alt="Naufal's GitHub Streak"> </div>
 🐍 Contribution Activity
