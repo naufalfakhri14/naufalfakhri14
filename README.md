@@ -52,7 +52,8 @@ I'm continuously building projects and expanding my experience across Data Scien
 <p> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="Machine Learning and AI"> </p> <p> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"> <img src="https://img.shields.io/badge/Computer%20Vision-36BCF7?style=flat-square" alt="Computer Vision"> <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square" alt="Natural Language Processing"> </p>
 ⚙️ Big Data & Data Engineering
 <p> <img src="https://skillicons.dev/icons?i=docker,linux,git" alt="Big Data and Data Engineering"> </p> <p> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop"> <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Apache Hive"> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow"> </p>
-## 🚀 Featured Projects
+
+🚀 Featured Projects
 
 <table>
 <tr>
