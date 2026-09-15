@@ -182,27 +182,7 @@ Deep learning and NLP-based product recommendation system that processes product
 
 </td>
 
-<td width="50%">
 
-### 🛒 E-Commerce Business Intelligence
-
-**Python · Pandas · RFM Analysis · Streamlit**
-
-<a href="https://github.com/naufalfakhri14/ecommerce-business-intelligence-analysis">
-  <img src="https://img.shields.io/badge/💻%20GitHub-Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="E-Commerce Business Intelligence GitHub">
-</a>
-
-<a href="https://ecommerce-business-intelligence-analysis.streamlit.app/">
-  <img src="https://img.shields.io/badge/📊%20Live%20Dashboard-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="E-Commerce Business Intelligence Live Dashboard">
-</a>
-
-End-to-end e-commerce analysis using the **Olist E-Commerce Public Dataset**, covering sales performance, customer experience, and RFM-based customer segmentation.
-
-The project combines data wrangling, exploratory analysis, visualization, business insights, recommendations, and an interactive dashboard.
-
-**Focus:** Business Intelligence · EDA · RFM Analysis · Data Visualization
-
-</td>
 
 </tr>
 
